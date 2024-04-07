@@ -98,11 +98,16 @@ tr.c_blue_white{
     padding: 1px;
     border: 1px solid  rgb(200, 200, 200);
     }
+.column_size_0{
+    padding-left: 10px !important;
+}
 .column_size_1{
     width: 60px;
+    padding-left: 10px !important;
     }
 .column_size_2{
     width: 80px;
+    padding-left: 10px !important;
     }
 .column_size_3{
     width: 150px;
