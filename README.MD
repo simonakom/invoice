@@ -1,5 +1,4 @@
-
-# Invoice 
+# <span><img src="./images/bill.png" alt="Wikipedia-page" style="height: 2em; vertical-align: middle;"></span> Invoice
 
 This assignment is about creating an invoice by using html (practising table elements) and css.
 
