@@ -67,11 +67,6 @@ td.c_blue{
     border-bottom: 1px solid rgb(200, 200, 200);
     }
 /* table 3 */
-.table_2{
-    width: 600px;
-    height: 150px;
-    margin: auto;
-    }
 .small{
     font-size: smaller;
     }
@@ -81,15 +76,8 @@ td.c_blue{
 tr.c_blue{
     color:rgb(24, 24, 97);
     }
-.bold{
-    font-weight:bold;
-    font-size: small;
-    }
 .side_left{
     text-align: left;
-    }
-#gray_border{
-    border-bottom: 1px solid rgb(200, 200, 200);
     }
 #width{
     width: 30px;
@@ -102,23 +90,13 @@ tr.c_blue{
     height: 150px;
     margin: auto;
     }
-#height{
-    height: 30px;
-    }
 tr.c_blue_white{
     background-color: rgb(72, 124, 222);
     color:white;
     }
-.bold{
-    font-weight:bold;
-    font-size: small;
-    }
 #border td,tr{
     padding: 1px;
     border: 1px solid  rgb(200, 200, 200);
-    }
-.small{
-    font-size: smaller;
     }
 .column_size_1{
     width: 60px;
@@ -137,31 +115,6 @@ tr.c_blue_white{
     margin: auto;
     width: 600px;
     height: 150px;  
-    }
-#height{
-    height: 30px;
-    }
-.small{
-    font-size: smaller;
-    }
-.side_right{
-    text-align: right;
-    }
-.column_size_1{
-    width: 60px;
-    }
-.bold{
-    font-weight:bold;
-    font-size: small;
-    }
-.column_size_2{
-    width: 80px;
-    }
-.column_size_3{
-width: 150px;
-    }
-#gray_border{
-    border-bottom: 1px solid rgb(200, 200, 200);
     }
 .light_blue{
     background-color: rgba(168, 216, 238, 0.624);
