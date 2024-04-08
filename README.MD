@@ -1,4 +1,4 @@
-# <span><img src="./images/bill.png" alt="Wikipedia-page" style="height: 1em; vertical-align: middle;"></span> Invoice
+# <span><img src="./images/bill.png" alt="invoice" style="height: 1em; vertical-align: middle;"></span> Invoice
 
 This assignment is about creating responsive invoice by using html table elements and css.
 
